@@ -1,12 +1,10 @@
-
-
-
-function App() {
+ import Chai from"./chai"
+ 
+ function App() {
 
 
   return (
-    <h1>Ankush yadav by using vite react  </h1>
-   
+    <Chai/> 
   )
 }
 
